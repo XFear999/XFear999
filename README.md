@@ -34,13 +34,13 @@ I enjoy building smart tools, automations, dashboards, and backend systems that 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XFear999&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xfear999&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XFear999&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xfear999&layout=compact&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=XFear999&theme=tokyonight)
+![Trophies](https://github-profile-trophy.vercel.app/?username=xfear999&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
