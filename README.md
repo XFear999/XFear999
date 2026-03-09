@@ -38,6 +38,10 @@ I enjoy building smart tools, automations, dashboards, and backend systems that 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XFear999&layout=compact&theme=tokyonight)
 
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=XFear999&theme=tokyonight)
+
 ## 🔥 GitHub Streak
 
 <img src="https://streak-stats.demolab.com?user=XFear999&theme=tokyonight&hide_border=true" />
